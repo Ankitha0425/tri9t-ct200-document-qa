@@ -1,0 +1,15 @@
+Subject: AI Engineering Internship Assignment Submission — Tri9T AI
+
+Hello Tri9T AI Team,
+
+Please find my assignment repository and approach document below:
+
+GitHub Repository: [PASTE YOUR PUBLIC GITHUB REPOSITORY URL]
+Approach Document: [LINK TO APPROACH.md IN THE REPOSITORY]
+
+The repository includes a FastAPI backend prototype, API documentation, setup instructions, and regression tests. I have documented current limitations and the validation steps required against the original CT-200 v1 and v2 manuals.
+
+Thank you for your time and consideration.
+
+Regards,
+[Your Name]

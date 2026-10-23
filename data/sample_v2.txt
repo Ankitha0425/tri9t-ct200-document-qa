@@ -1,0 +1,10 @@
+1 Introduction
+The CT-200 is a home blood pressure monitor.
+2 Safety
+2.1 Cuff safety
+Use the correct cuff size for the user and check the cuff before each use.
+2.2 Pressure limits
+The device must release pressure if an unsafe condition is detected.
+3 Operation
+3.1 Start measurement
+Press the start button to begin measurement.
